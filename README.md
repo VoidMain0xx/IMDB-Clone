@@ -13,11 +13,13 @@
 * imdb clone run commad to run frontend
 
 ````
+npm i
 npm start
 ````
 
 * For backend
 ````
 cd backend
+npm i
 nodemon index.js
 ````
